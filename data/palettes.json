@@ -458,6 +458,12 @@
       "end": "#E4F9FF"
     },
     {
+      "name": "Hong Kong",
+      "region": "Asia",
+      "start": "#E88AA2",
+      "end": "#FFF0F4"
+    },
+    {
       "name": "Hungary",
       "region": "Europe",
       "start": "#E78B8A",
@@ -498,6 +504,12 @@
       "region": "Europe",
       "start": "#52BF90",
       "end": "#E7F9E6"
+    },
+    {
+      "name": "Isle of Man",
+      "region": "Europe",
+      "start": "#779FE1",
+      "end": "#EEF3FF"
     },
     {
       "name": "Israel",
@@ -546,6 +558,12 @@
       "region": "Oceania",
       "start": "#E99183",
       "end": "#FFF0E7"
+    },
+    {
+      "name": "Kosovo",
+      "region": "Europe",
+      "start": "#7A98DF",
+      "end": "#EEF2FF"
     },
     {
       "name": "Kuwait",
@@ -854,6 +872,12 @@
       "end": "#E9FAEA"
     },
     {
+      "name": "Puerto Rico",
+      "region": "Americas",
+      "start": "#E98D93",
+      "end": "#FFF0EF"
+    },
+    {
       "name": "Qatar",
       "region": "Asia",
       "start": "#B97A9B",
@@ -1032,6 +1056,12 @@
       "region": "Asia",
       "start": "#55BF91",
       "end": "#E8F8EB"
+    },
+    {
+      "name": "Taiwan",
+      "region": "Asia",
+      "start": "#E889A1",
+      "end": "#FFF0F3"
     },
     {
       "name": "Tajikistan",
